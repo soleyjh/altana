@@ -5,7 +5,7 @@ July 29, 2021
 Altana Shipping Data
 
 ### Requirements
-Latest Anaconda Distrbution
+Latest Anaconda Distrbution: https://docs.anaconda.com/anaconda/install/mac-os/
 Xgboost Installation Requirements: https://xgboost.readthedocs.io/en/latest/install.html
 Imbalance-Leanr Installation Requirements: https://anaconda.org/conda-forge/imbalanced-learn
 
